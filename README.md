@@ -1,7 +1,7 @@
 # 🚀 Project Showcase
 
 Welcome to my live project collection!  
-Here you can find all my deployed projects with source code.
+Explore my deployed projects through live demos below 🌐
 
 
 ### 🔹 01. Knowledge Vault
@@ -12,6 +12,30 @@ Here you can find all my deployed projects with source code.
 
 ### 🔹 03. G3 Architects
 🔗 https://bayjidalom.github.io/G3-Architects/
+
+### 🔹 04. Influencer Gear
+🔗 https://bayjidalom.github.io/Influencer-Gear-Website/
+
+### 🔹 05. TechWave
+🔗 https://bayjidalom.github.io/TechWave/
+
+### 🔹 06. Hero Travel
+🔗 https://bayjidalom.github.io/Hero-Travel-Website/
+
+### 🔹 07. English Janala
+🔗 https://bayjidalom.github.io/English-Janala/
+
+### 🔹 08. Tea House
+🔗 https://bayjidalom.github.io/Tea-House-Code/
+
+### 🔹 09. Job Application Tracker
+🔗 https://bayjidalom.github.io/Job-Application-Tracker/
+
+### 🔹 10. Github Issues Tracker
+🔗 https://bayjidalom.github.io/GitHub-Issues-Tracker/
+
+
+
 
 
 

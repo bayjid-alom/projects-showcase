@@ -34,6 +34,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 10. Github Issues Tracker
 🔗 https://bayjidalom.github.io/GitHub-Issues-Tracker/
 
+### 🔹 11. Payoo Mobile Bank
+🔗 https://bayjidalom.github.io/Payoo-Mobile-Bank/
+
 
 
 

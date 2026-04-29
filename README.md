@@ -37,6 +37,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 11. Payoo Mobile Bank
 🔗 https://bayjidalom.github.io/Payoo-Mobile-Bank/
 
+### 🔹 12. New Me Project
+🔗 https://bayjidalom.github.io/New-Me-Project/
+
 
 
 

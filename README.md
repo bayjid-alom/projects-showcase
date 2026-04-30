@@ -40,6 +40,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 12. New Me Project
 🔗 https://bayjidalom.github.io/New-Me-Project/
 
+### 🔹 13. Bangladesh 2.0
+🔗 https://bayjidalom.github.io/Bangladesh-2.0/
+
 
 
 

@@ -43,6 +43,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 13. Bangladesh 2.0
 🔗 https://bayjidalom.github.io/Bangladesh-2.0/
 
+### 🔹 13. Simple Portfolio
+🔗 https://bayjidalom.github.io/Personal-Portfolio/
+
 
 
 

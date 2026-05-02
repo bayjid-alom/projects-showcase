@@ -46,6 +46,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 13. Simple Portfolio
 🔗 https://bayjidalom.github.io/Personal-Portfolio/
 
+### 🔹 13. Spiderman
+🔗 https://bayjidalom.github.io/Spiderman/
+
 
 
 

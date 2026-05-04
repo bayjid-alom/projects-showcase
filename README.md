@@ -49,6 +49,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 13. Spiderman
 🔗 https://bayjidalom.github.io/Spiderman/
 
+### 🔹 13. Flower Shop (Responsive)
+🔗 https://bayjidalom.github.io/flower-shop/
+
 
 
 

@@ -55,6 +55,9 @@ Explore my deployed projects through live demos below 🌐
 ### 🔹 14. Legal Solutions
 🔗 https://bayjidalom.github.io/legal-solutions/
 
+### 🔹 15. Fitness
+🔗 https://bayjidalom.github.io/fitness/
+
 
 
 
